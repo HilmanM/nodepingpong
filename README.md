@@ -1,6 +1,7 @@
 # pingpong-app built in with node js
 
 ## What I have done
+- Dockerize the App
 - Implement CI/CD with Github Action
 - Pushed docker image to dockerhub registry https://hub.docker.com/r/maulanadsgn/pingpongnode
 - Deploy Docker Images to local minikube cluster
